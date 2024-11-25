@@ -1,6 +1,6 @@
 # **Time Tracker Extension for VS Code**
 
-This is the README for your extension "timetracker". 
+This is the README for the extension "timetracker". 
 
 ![Time Tracker](Screenshot.png)
 

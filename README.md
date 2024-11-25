@@ -2,6 +2,8 @@
 
 This is the README for your extension "timetracker". 
 
+![Time Tracker](Screenshot.png)
+
 ## 📌 **Overview**
 
 The **Time Tracker Extension** helps me see how I spend my time in Visual Studio Code. It tracks and displays the time I spend on the following activities:

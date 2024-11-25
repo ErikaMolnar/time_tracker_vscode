@@ -13,4 +13,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - **Real-time Status Bar Display**: Shows live stats for all tracked activities.
 
 
-*This is the first version of the Time Tracker extension, designed to help developers monitor their productivity and workflow patterns effectively.*
+*This is the first version of the Time Tracker extension, designed to help me monitor productivity and workflow patterns effectively.*
